@@ -34,7 +34,7 @@ public class CheckoutOrderCommandHandler : IRequestHandler<CheckoutOrderCommand,
 
         _logger.LogInformation("Order {Id} is successfully created.", newOrder.Id);
 
-        await SendMail(newOrder);
+        //await SendMail(newOrder);
 
         return newOrder.Id;
     }
