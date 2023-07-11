@@ -1,4 +1,4 @@
-# bufa-microservices
+# ApsnetMicroservices
 
 Construindo um projeto de Microservices. Esse projeto consiste em uma implementação feita no curso [Microservices Architecture and Implementation](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/?couponCode=JULY23), com o objetivo de solidificar os conhecimentos em Microservices nas tecnologias citadas.
 
@@ -56,6 +56,9 @@ O projeto de microsserviços `bufa-microservices` é composto pelos seguintes mi
 ### API Gateway Ocelot Microservice
 - Implementação de uma API Gateways com Ocelot
 - Exemplos de microsserviços/contêineres para redirecionar por meio dos API Gateways
+
+### WebUI ShoppingApp Microservice
+- Aplicação ASP.NET Core Web Application com Bootstrap 4 and Razor template
 
 ## Instalação
 
