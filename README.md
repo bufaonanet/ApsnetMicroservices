@@ -1,4 +1,4 @@
-# ApsnetMicroservices
+# AspNetMicroservices
 
 Construindo um projeto de Microservices. Esse projeto consiste em uma implementação feita no curso [Microservices Architecture and Implementation](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/?couponCode=JULY23), com o objetivo de solidificar os conhecimentos em Microservices nas tecnologias citadas.
 
